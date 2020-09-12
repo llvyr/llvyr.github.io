@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Array相关知识总结</title>
+      <link href="/2020/09/12/Array/"/>
+      <url>/2020/09/12/Array/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Array-相关知识总结"><a href="#Array-相关知识总结" class="headerlink" title="Array 相关知识总结"></a>Array 相关知识总结</h1><h3 id="创建Array的方法"><a href="#创建Array的方法" class="headerlink" title="创建Array的方法"></a>创建Array的方法</h3> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">let  array &#x3D;[1,2,3 ]</span><br><span class="line">let array &#x3D; Array(&quot;1&quot;,&quot;2&quot;,&quot;3&quot;)</span><br></pre></td></tr></table></figure><h3 id="Array-的相关方法"><a href="#Array-的相关方法" class="headerlink" title="Array 的相关方法"></a>Array 的相关方法</h3><ul><li>array.length 获取数组的长度</li><li>isArray 判断是否是数组</li><li>let array = Array.of(6)  结果 [6]  </li><li>let  arr = Array(6); 结果 (6)[空*6]</li><li>let arr.toString  将数组元素转化为 字符串形式 </li><li>arr.join(“ - “) 连接</li><li>Array.from(arr,function(){}) 可以对数组进一步操作 转化为数组</li></ul><h3 id="Arrar-的常用方法"><a href="#Arrar-的常用方法" class="headerlink" title="Arrar 的常用方法"></a>Arrar 的常用方法</h3><ol><li>点语法 […arr]<ul><li>[…divs] 将DOM元素转化为Array操作</li></ul></li><li>结构语法 将左边的值分配给右边<ul><li>let [name,year] = [ “lis”,2000]     let  [,nem ]= [,”lis”] </li></ul></li><li>arr.concat 连接函数 （推荐点语法）</li><li>arr.copyWithin(复制的元素要放的起始位置，开始复制的位置，结束位置)</li></ol><h3 id="Array-添加元素"><a href="#Array-添加元素" class="headerlink" title="Array 添加元素"></a>Array 添加元素</h3><ol><li>利用展开语法追加 […a,b…]</li><li>arr.push() 在末尾追加元素</li><li>pop() 从末尾弹出一个元素</li><li>unshift 从前面追加一个元素</li><li>shift 从前面弹出一个元素</li><li>fill()填充元素 fill（e,start,end）</li><li>slice 截断函数 （start，etnd）原数组不变</li><li>splice (start,num,e)  原数组改变 可以完成 增 删 改 </li></ol><h3 id="清空Array"><a href="#清空Array" class="headerlink" title="清空Array"></a>清空Array</h3><ol><li>arr = [] 开辟新的存储空间</li><li>arr.length = 0 改变原来内存中的数据</li><li>arr.splice(0)</li></ol><h3 id="Array查找"><a href="#Array查找" class="headerlink" title="Array查找"></a>Array查找</h3><ul><li>indexOf  true 元素所在的索引值  false 返回 -1 <ul><li>if(arr.indexOf(2)! ===-1){} </li></ul></li><li>lastindexOf 逆序查找 </li><li>includes 返回的是 布尔值 不适合查找引用类型</li><li>find true 返回找到的值  false undefined<ul><li>适合查找引用类型</li></ul></li><li>findIndex 返回元素的索引值</li></ul><h3 id="Array元素排序"><a href="#Array元素排序" class="headerlink" title="Array元素排序"></a>Array元素排序</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">let arr &#x3D; [1,2,5]</span><br><span class="line">arr.sort(function(a,b)&#123;</span><br><span class="line"></span><br><span class="line">return b-a;&#x2F;&#x2F;从大到小</span><br><span class="line">&#x2F;&#x2F; return a-b; &#x2F;&#x2F;从小到大 </span><br><span class="line">&#125;)</span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="Array遍历"><a href="#Array遍历" class="headerlink" title="Array遍历"></a>Array遍历</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">for (let i &#x3D; 0;i &lt; arr.length;i++ )return arr[i].title&#x3D;&quot;hs&quot;;</span><br><span class="line">for(const key in arr ) return [key].title &#x3D; &quot;hs&quot;</span><br><span class="line">for(const value of arr)return value ++</span><br><span class="line">arr.forEach((item.index,arr)&#x3D;&gt; item)</span><br></pre></td></tr></table></figure><p><strong>注意</strong> </p><ul><li>for … of,forEach 中 value改变的值 （arr 对象类型可以改变）<br>（arr 数字 不能改变） </li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> javascript </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Array </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>reduce 的初步认识</title>
       <link href="/2020/09/10/reduce/"/>
       <url>/2020/09/10/reduce/</url>
