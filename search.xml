@@ -4,11 +4,36 @@
   
     
     <entry>
-      <title>js</title>
+      <title>实践心得</title>
+      <link href="/2020/11/09/summary/"/>
+      <url>/2020/11/09/summary/</url>
+      
+        <content type="html"><![CDATA[<style>h1{  text-align: center;}p{  text-indent:2em;}</style><h1> 一份耕耘，一份收获</h1><p>“实践是检验真理的唯一标准”。我一直都坚信的一句话，从实践中能够收获更深更广的知识，能够明显感觉到自己能力不足的一面和自己擅长的方面，更进一步的是如何灵活运用知识解决问题，生活中遇到的问题远比课堂学到的复杂多变，从这次实践中我就学会了如何和不同性格的人沟通交流，怎样利用每个人的长处来实现小组效率的最大化，通过合理安排时间，合理规划任务进程，按时按质完成每一步计划，最终完成整个社会实践。</p><p>在小组中我最为小组的组长，第一步便是通过小组表决确定实践的主题，罗列出任务大纲。其次便是考虑每一个组员的性格特点和擅长的技能，来合理安排任务，但在安排任务中也遇到问题，工作量的大小，工作的难度等，需要我来说服和调节。</p><p>从和他们沟通的过程中我明显感觉到每个人都有自己不同的思维方式，有自己的观点和立场，我认为合理但不一定是最优的方案，毕竟在判断是总会受到主观的影响，无法做到客观看待问题。</p><p>其一，我学会了讨论的重要性，通过探讨可以更为客观的看到事物的利与弊，存在的风险和预测最终的结果，从而选择一个合理的解决方案。其二，我从实践过程中发现了每个人多少都有一定的拖延症。能够正真做到按时按质完成工作的成员是极少的。所以再设计计划方案一定要留有一定的缓冲时间，不然到最后可能会出现时间不够的现象。再者计划赶不上变化，往往会遇到意想不到的突发状况打乱计划。在三坊七巷采访中原定计划于中午1点福州市汇合，结果出校门时被保安卡住，原因是没有在钉钉上申请外出假条，最后2点才汇合。后来的采访过程中也是遭到多次拒绝，延长了实践实践，最后勉强赶上了回学校的末班车。出现这次意外主要是没有事先了解一下学校的出行制度和低估了采访的难度，预留的时间过小。其三，我学会了如何运用自己的专业去解决一些实际问题。理论要与实际相结合，作为软件工程的专业，这种机会是很少的，课堂多是一些理论化的知识，缺少实战的项目。趁着这次实践，我运用一些前端的知识做出了一个展示的页面。原计划是使用ppt来展示，但我在这方面实在是没有天赋，完全做不出自己想要的效果，我开始思考如何来展示我们的成果，最终想到了为何不利用自己擅长的前端知识来制作ppt，通过国庆期间在网上的学习，最终借用了一些框架和库完成了自己的任务，整体展示效果不错。最后一点就是这次实践让我发现我比较擅长做规划，喜欢学习一些比较新奇的技术，锻炼了我的沟通能力和解决问题的能力。</p><p>实践不仅是发现了自己的优势，同时也更明显的突出了自己的劣势。在沟通中容易控制不住自己的情绪，对于别人的观点没有认真的斟酌，存在一种盲目自信的心里，专业技能能力太弱，知识的储备远远不够，导致无法做出满意的作品，自律方面有待提高，会出现拖拉的现象，这是我需要进一步改善的方面，也是我可以更近一步提升自己的方面。</p><p>一份耕耘，一份收获，承担的越多，学到的越多。从这次的社会实践，我真正做到了从实践中学习，在学习中实践。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 政治论文 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 实践心得 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>知识点总会 HTML CSS JS</title>
       <link href="/2020/10/28/js/"/>
       <url>/2020/10/28/js/</url>
       
-        <content type="html"><![CDATA[<h1 id="知识点总会-HTML-CSS-JS"><a href="#知识点总会-HTML-CSS-JS" class="headerlink" title="知识点总会 HTML CSS JS"></a>知识点总会 HTML CSS JS</h1><h2 id="HTMl"><a href="#HTMl" class="headerlink" title="HTMl"></a>HTMl</h2><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/llvyr/img/raw/master/img/html.png"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="知识点总会-HTML-CSS-JS"><a href="#知识点总会-HTML-CSS-JS" class="headerlink" title="知识点总会 HTML CSS JS"></a>知识点总会 HTML CSS JS</h1><h2 id="HTMl"><a href="#HTMl" class="headerlink" title="HTMl"></a>HTMl</h2><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/llvyr/img/raw/master/img/html.png"></p><h2 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h2><p><img src= "/img/loading.gif" data-lazy-src="https://img-blog.csdnimg.cn/20201109180237173.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NjQ2Mzk4NA==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述"></p><h2 id="JS"><a href="#JS" class="headerlink" title="JS"></a>JS</h2><p><img src= "/img/loading.gif" data-lazy-src="https://img-blog.csdnimg.cn/20201109180711241.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NjQ2Mzk4NA==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述"></p><h2 id="磕磕绊绊一路走来，从未放弃，终于学完了前端的基础-o-￣︶￣-o"><a href="#磕磕绊绊一路走来，从未放弃，终于学完了前端的基础-o-￣︶￣-o" class="headerlink" title="磕磕绊绊一路走来，从未放弃，终于学完了前端的基础 o(￣︶￣)o"></a><strong>磕磕绊绊一路走来，从未放弃，终于学完了前端的基础 o(<em>￣︶￣</em>)o</strong></h2>]]></content>
       
       
       <categories>
